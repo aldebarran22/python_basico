@@ -1,0 +1,28 @@
+1.- Visión general de la plataforma
+2.- Características del lenguaje de programación y el entorno de ejecución
+3.- Variables y Expresiones
+• Variables en Python
+4.- Tipos de datos
+• Básicos: cadenas, textos, booleanos
+• Estructuras de datos
+o Secuencias (listas, tuplas, …)
+o Conjuntos
+o Diccionarios
+o Pilas
+o Colas
+5.- Tratamiento de datos
+• Operadores matemáticos y comentarios
+• Operadores relacionales
+• Operadores lógicos
+6.- Sentencias de control de flujo: if, while, for
+• Condicionales if, if anidados en Python
+• Sentencia while
+7.- Definición de funciones
+• Funciones que reciben variables
+• Funciones que devuelven variables
+• Funciones con parámetros por defecto
+• Funciones anidadas
+• Funciones anónimas (lambdas)
+• Funciones generadoras
+8.- Listas por compresión
+• Generación de forma compacta (comprehensions)
