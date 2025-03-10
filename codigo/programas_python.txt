@@ -1,0 +1,7 @@
+Programas que podemos hacer con Python:
+- Desarrollo Web --> django
+- Acceso a base de datos: oracle, mysql, postgre, sqlserver
+- Análisis de datos: ficheros tipos Excel
+- Aplicaciones de Escritorio.
+- Integración con S.O. Linux
+
